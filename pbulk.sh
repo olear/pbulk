@@ -23,7 +23,7 @@
 # ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 echo "WARNING! pbulk needs a clean system, and will modify several files/folders on your system."
-sleep 5
+sleep 1
 
 # Clean if requested
 if [ "$1" == "clean" ]; then
