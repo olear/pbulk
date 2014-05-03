@@ -1,0 +1,5 @@
+Script used to setup pbulk on Linux.
+
+Usage: pbulk.sh clean|setup|build
+
+Only tested on DracoLinux, CentOS, Slackware.
